@@ -1,7 +1,7 @@
 ### Jianhua_demo01
 
 [Alpha168](http://blog.wessiorfinance.com/)
-![ppp](e_bw.jpg)
+![ppp](alpha168.jpg)
 ###### 專題:股票系統
 #### 成員:
 #### 0424001 楊博文
